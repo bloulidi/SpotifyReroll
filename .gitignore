@@ -102,4 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+#Mac/OSX system file that holds attributes/meta-data about the folder it resides in
 .DS_Store
